@@ -1,5 +1,2 @@
 this is dev edit#1
 in master  
-edit #2
-edit #3 
-edit #4 
